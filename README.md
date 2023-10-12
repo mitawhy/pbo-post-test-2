@@ -13,7 +13,7 @@ Kelas: Sistem Informasi A 2022
 ![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/869c0c2e-b461-4b25-9388-e20f77f3c637)
 ![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/699d1470-bbbe-43f8-bf02-003479d3cc5b)
 
-![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/f21c70e3-f7fc-4ef5-8eee-f5b5192ac25e)
+![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/6a764ee6-e784-4db7-9696-089795e87e1d)
 ![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/60baa2b5-245f-4f42-b4bf-0587e24bcfda)
 
 
