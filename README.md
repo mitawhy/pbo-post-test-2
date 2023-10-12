@@ -17,6 +17,8 @@ Kelas: Sistem Informasi A 2022
 ## kelas MataKuliah
 ![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/6a764ee6-e784-4db7-9696-089795e87e1d)
 ![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/60baa2b5-245f-4f42-b4bf-0587e24bcfda)
+#
+Best practice final method, final property, dan/atau final class hanya digunakan pada arraylist dan juga scanner. Method, property, dan/atau class yang lainnya tidak bisa dibuat final. Karena itu masih harus diubah (tambah, hapus, atau edit), sehingga final tidak dapat diimplementasikan pada project ini. Access modifier pun sudah disesuaikan dengan keperluan yang ada pada project ini.
 
 
 
