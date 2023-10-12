@@ -25,5 +25,26 @@ Kelas: Sistem Informasi A 2022
 
 ## Screenshot Output beserta Penjelasan
 ![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/a3bc8546-6aa8-4f24-a442-3c06f60a45fc)
+#
 Admin diminta untuk memilih menu yang ada. Jika admin memilih "1", maka akan muncul menu tambah mata kuliah. Lalu diminta untuk memasukkan kode mata kuliah dan nama mata kuliah.
+#
+![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/1e7b32eb-9754-4a66-9de4-3cbacba02d94)
+#
+Setelah itu tampil lagi pilihan menu untuk admin. Jika pilih "4", maka akan tampil daftar mata kuliah yang ada.
+#
+![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/99e59f53-0bb4-4708-a4b2-8b94fbd95339)
+#
+Jika memilih "2", maka ubah mata kuliah. Masukkan kode mata kuliah yang ingin diubah, lalu masukkan nama mata kuliah yang baru.
+#
+![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/f4d2b350-1b0a-4758-80e3-4077e3ce9e54)
+#
+Jika memilih "3", artinya hapus mata kuliah. Dengan memasukkan kode mata kuliah yang ingin dihapus.
+#
+![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/79be894e-5446-4b2a-bd0f-4804137e9ed8)
+#
+Terakhir jika memilih "5" artinya keluar dari program dan program berhenti/selesai.
+
+
+
+
 
