@@ -24,3 +24,6 @@ Kelas: Sistem Informasi A 2022
 
 
 ## Screenshot Output beserta Penjelasan
+![image](https://github.com/mitawhy/pbo-post-test-2/assets/72842139/a3bc8546-6aa8-4f24-a442-3c06f60a45fc)
+Admin diminta untuk memilih menu yang ada. Jika admin memilih "1", maka akan muncul menu tambah mata kuliah. Lalu diminta untuk memasukkan kode mata kuliah dan nama mata kuliah.
+
